@@ -7,7 +7,7 @@
 	Description:  Java program demonstrating the use of threads.  Written as part of an MSc class.
 */
 
-public class FourThreads {
+public class someThreads {
 
     public static void main(String args[]) {
     
@@ -42,7 +42,7 @@ public class FourThreads {
 		System.out.println ("(c) Lynsay A. Shepherd April 2009.\n");
 	} // end program information
 	
-}  // end class FourThreads
+}  // end class someThreads
 
 
 
@@ -72,4 +72,3 @@ class PrintThread extends Thread {
         
     }  // end run
 }  // end class PrintThread
-
